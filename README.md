@@ -4,7 +4,7 @@
 
 [![PyPI version](https://badge.fury.io/py/pyautoscreenshot.svg)](https://badge.fury.io/py/pyautoscreenshot)
 [![Python Support](https://img.shields.io/pypi/pyversions/pyautoscreenshot.svg)](https://pypi.org/project/pyautoscreenshot/)
-[![License](https://img.shields.io/github/license/yourusername/pyautoscreenshot.svg)](LICENSE)
+[![License](https://img.shields.io/github/license/fxyzbtc/pyautoscreenshot.svg)](LICENSE)
 
 ## ✨ Features
 
@@ -75,7 +75,7 @@ print(f"Screenshot saved to: {filepath}")
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/pyautoscreenshot.git
+git clone https://github.com/fxyzbtc/pyautoscreenshot.git
 cd pyautoscreenshot
 ```
 
@@ -136,9 +136,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📫 Report issues on [GitHub Issues](https://github.com/yourusername/pyautoscreenshot/issues)
-- 💬 Ask questions in [Discussions](https://github.com/yourusername/pyautoscreenshot/discussions)
-- 📚 Read the [documentation](https://github.com/yourusername/pyautoscreenshot/wiki)
+- 📫 Report issues on [GitHub Issues](https://github.com/fxyzbtc/pyautoscreenshot/issues)
+- 💬 Ask questions in [Discussions](https://github.com/fxyzbtc/pyautoscreenshot/discussions)
+- 📚 Read the [documentation](https://github.com/fxyzbtc/pyautoscreenshot/wiki)
 
 ---
 Made with ❤️ using Python
